@@ -52,7 +52,7 @@ public class PersonalInformation {
         // Instantiate --> Create the LocalDate 
         LocalDate dateOfBirth = LocalDate.of(year, month, day);
 		
-		// Prompt for user to enter their email address
+	// Prompt for user to enter their email address
         System.out.print("Please enter your email address: ");
         
         // Read a String from the keyboard, and store it in emailAddress
